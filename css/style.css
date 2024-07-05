@@ -1,0 +1,15 @@
+body {
+	background: whitesmoke;
+	text-align: center;
+	position: relative;
+}
+
+.main {
+	width: 50%;
+	margin: auto;
+	
+}
+
+.shakeimage{
+	position:relative;
+}
